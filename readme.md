@@ -20,14 +20,12 @@ Clone repo or download in some local folder. Let us assume path is `D:\path\to\p
 
 ## Windows Terminal Preview Setup
 
-Basically our goal is to start init.bat after cmd.exe is lounched. i.e. to run `cmd.exe /k D:\\path\\to\\pwrln\\init.bat` In case of windows terminal we can configure a profile like this:
+Basically our goal is to start init.bat after cmd.exe is lounched. i.e. to run `cmd.exe /k D:\\path\\to\\pwrln\\init.bat` In case of windows terminal we can add pwrln by adding this to our profile for Command Prompt:
 
 ```json
 {
-    ...
     "commandline" : "cmd.exe /k D:\\path\\to\\pwrln\\init.bat",
     "fontFace" : "CaskaydiaCove NF",
-    ....
 },
 ```
 
