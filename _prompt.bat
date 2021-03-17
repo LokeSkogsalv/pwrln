@@ -20,9 +20,6 @@ $e[49m^
 )
 
 prompt ^
-%cfg%%bg1%m^
-$e[7m^
-$e[m^
 %cfg%%fg1%m^
 %cbg%%bg1%m^
 $s%username%@^
