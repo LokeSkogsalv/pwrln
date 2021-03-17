@@ -56,5 +56,5 @@ $e[m^
 
 # Credits
 
-- [hazardland](https://github.com/hazardland) for the base
+- [hazardland](https://github.com/hazardland) for the base.
 - [HolmDev (me)](https://github.com/LokeSkogsalv) for implementing color configuration and a more complex prompt.
